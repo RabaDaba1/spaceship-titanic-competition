@@ -12,4 +12,4 @@ My submission scored in the **top 7%** of all submissions on the leaderboard wit
 
 ## Kaggle Competition
 
-The competition can be found [here]([https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques](https://www.kaggle.com/competitions/spaceship-titanic)https://www.kaggle.com/competitions/spaceship-titanic).
+The competition can be found [here](https://www.kaggle.com/competitions/spaceship-titanic "Competition").
