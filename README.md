@@ -1,6 +1,6 @@
 # 🚀 Spaceship Titanic: A Machine Learning Journey 🚢
 
-This repository contains my [submission](https://www.kaggle.com/code/kacperrabczewski/spaceship-titanic-a-machine-learning-journey "Original submission") to the Kaggle Spaceship Titanic competition. I recommend viewing on Kaggle by clicking on *submission*
+This repository contains my [submission](https://www.kaggle.com/code/kacperrabczewski/spaceship-titanic-a-machine-learning-journey "Original submission") to the Kaggle Spaceship Titanic competition. I recommend viewing on Kaggle by clicking on *submission*.
 
 ## Contents
 
