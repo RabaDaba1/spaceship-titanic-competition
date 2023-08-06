@@ -8,7 +8,7 @@ This repository contains my [submission](https://www.kaggle.com/code/kacperrabcz
 
 ## Results
 
-My submission scored in the **top 7%** of all submissions on the leaderboard with **accuracy score of 81.2%**.
+My submission scored in the **top 5%** of all submissions on the leaderboard with **accuracy score of 81.2%**.
 
 ## Kaggle Competition
 
